@@ -1,0 +1,18 @@
+c:\users\kok wah\documents\visual studio 2017\Projects\CompareFiles\CompareFiles\bin\Debug\CompareFiles.exe.config
+c:\users\kok wah\documents\visual studio 2017\Projects\CompareFiles\CompareFiles\bin\Debug\CompareFiles.exe
+c:\users\kok wah\documents\visual studio 2017\Projects\CompareFiles\CompareFiles\bin\Debug\CompareFiles.pdb
+c:\users\kok wah\documents\visual studio 2017\Projects\CompareFiles\CompareFiles\obj\Debug\CompareFiles.csprojResolveAssemblyReference.cache
+c:\users\kok wah\documents\visual studio 2017\Projects\CompareFiles\CompareFiles\obj\Debug\CompareFiles.CompareFiles.resources
+c:\users\kok wah\documents\visual studio 2017\Projects\CompareFiles\CompareFiles\obj\Debug\CompareFiles.Properties.Resources.resources
+c:\users\kok wah\documents\visual studio 2017\Projects\CompareFiles\CompareFiles\obj\Debug\CompareFiles.csproj.GenerateResource.Cache
+c:\users\kok wah\documents\visual studio 2017\Projects\CompareFiles\CompareFiles\obj\Debug\CompareFiles.exe
+c:\users\kok wah\documents\visual studio 2017\Projects\CompareFiles\CompareFiles\obj\Debug\CompareFiles.pdb
+C:\Users\kok wah\Desktop\Github\CompareFiles\CompareFiles\obj\Debug\CompareFiles.csprojResolveAssemblyReference.cache
+C:\Users\kok wah\Desktop\Github\CompareFiles\CompareFiles\obj\Debug\CompareFiles.CompareFiles.resources
+C:\Users\kok wah\Desktop\Github\CompareFiles\CompareFiles\obj\Debug\CompareFiles.Properties.Resources.resources
+C:\Users\kok wah\Desktop\Github\CompareFiles\CompareFiles\obj\Debug\CompareFiles.csproj.GenerateResource.Cache
+C:\Users\kok wah\Desktop\Github\CompareFiles\CompareFiles\obj\Debug\CompareFiles.exe
+C:\Users\kok wah\Desktop\Github\CompareFiles\CompareFiles\obj\Debug\CompareFiles.pdb
+C:\Users\kok wah\Desktop\Github\CompareFiles\CompareFiles\bin\Debug\CompareFiles.exe.config
+C:\Users\kok wah\Desktop\Github\CompareFiles\CompareFiles\bin\Debug\CompareFiles.exe
+C:\Users\kok wah\Desktop\Github\CompareFiles\CompareFiles\bin\Debug\CompareFiles.pdb
